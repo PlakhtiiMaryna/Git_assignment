@@ -20,7 +20,3 @@ def calculator (a, b, c):
 res = calculator(a, b, c)
 
 print (f'Отриманий результат: {res}')
-    
-        
-
-
